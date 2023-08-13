@@ -1,0 +1,7 @@
+#production
+#BASEURL=http://127.0.0.1:8000/api
+#SITEURL=http://127.0.0.1:8000/
+
+#local
+BASEURL=http://127.0.0.1:8000/api
+SITEURL=http://127.0.0.1:8000/
